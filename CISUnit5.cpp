@@ -32,7 +32,7 @@ const int ORDER_CHOICE = 2;
 const int BILL_CHOICE = 3;
 const int EXIT = 4;
 const double STOCK_HIGH = 400.0;
-
+//wdjwiahdow ow823e08v23 q09ec-2-
 
 bool validate(double purchase = 0.0, double stock = STOCK_HIGH)
 {
